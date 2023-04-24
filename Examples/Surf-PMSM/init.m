@@ -6,6 +6,6 @@ restoredefaultpath;
 
 %change these as needed
 addpath(genpath('../../SMEKlib'));
-gmsh_path = 'E:/Software/Work/gmsh40';
+gmsh_path = 'Z:\Downloads\edu\Scripts\Scripts\'
 
 addpath(genpath('Examples and testing'));
